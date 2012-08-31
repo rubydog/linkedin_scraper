@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/linkedin-scraper/version', __FILE__)
+require File.expand_path('../lib/linkedin/version', __FILE__)
 Gem::Specification.new do |s|
-  s.name        = 'linkedin-scraper'
+  s.name        = 'linkedin_scraper'
   s.version     = '0.1.0'
   s.date        = '2012-08-31'
   s.summary     = "Find linkedin profiles and scrapes data"

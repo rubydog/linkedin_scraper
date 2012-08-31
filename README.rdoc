@@ -16,7 +16,7 @@ First Initialize an instance Linkedin class like this:
 
   require 'linkedin_scraper'
 
-  linkedin = LinkedinScraper::linkedin.new
+  linkedin = LinkedinScraper::Linkedin.new
 
 This sets the mechanize object for scraping. Now you can feed name and companies:
 

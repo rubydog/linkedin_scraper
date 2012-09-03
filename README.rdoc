@@ -33,7 +33,7 @@ third option can be country: some_country (see list of supported countries below
 Then you can see the scraped data like this:
 
  
-  profile.full_name          #the First name of the profile
+  profile.full_name          #the full name of the profile
     
   profile.title               #the linkedin job title
     
